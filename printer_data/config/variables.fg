@@ -1,0 +1,3 @@
+[Variables]
+extruder_nozzle = {'nozzle_diameter': 1.0, 'max_extrude_cross_section': None}
+
